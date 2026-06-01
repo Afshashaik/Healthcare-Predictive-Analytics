@@ -1,0 +1,31 @@
+# Healthcare Predictive Analytics (Disease Detection)
+
+## Overview
+This project predicts diabetes risk using Machine Learning algorithms and healthcare analytics.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- XGBoost
+
+## Models Used
+- Logistic Regression
+- Random Forest
+- XGBoost
+
+## Evaluation Metrics
+- Accuracy
+- Recall
+- ROC-AUC Score
+- Classification Report
+
+## Features
+- Data Preprocessing
+- Disease Prediction
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Correlation Heatmap
